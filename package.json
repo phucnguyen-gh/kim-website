@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "vinext dev",
+    "build": "vinext build",
+    "deploy": "vinext deploy",
     "start": "next start",
     "lint": "eslint",
     "dev:vinext": "vite dev --port 3001",
